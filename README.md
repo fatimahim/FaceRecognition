@@ -15,11 +15,11 @@ This project is a facial recognition and surveillance platform developed using *
 - **Database:** Stores photos and personal information.
 
 ## Requirements
-- Java 11 or later
 - Spring Boot
 - Kafka
 - VGGFace library
-- Database (e.g., MySQL, PostgreSQL)
+- Database (csv file conatins pictures and informations about each person )
+- FastApi
 
 ## Setup Instructions
 
